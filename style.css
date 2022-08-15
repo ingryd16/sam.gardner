@@ -5,7 +5,6 @@ body{
     
 }
 
-
 header{
     height: 100px;
     background-color: black;
@@ -30,6 +29,7 @@ main{
     text-align: center;
     background-color: #8ce9f0;
 }
+
 .ul{
     text-align: justify;
     font-size: larger;
